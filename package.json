@@ -1,6 +1,6 @@
 {
   "name": "cal-ipa",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Transliterate CAL code to IPA",
   "main": "build/cal-ipa.js",
   "mainMin": "build/cal-ipa.min.js",
@@ -63,7 +63,7 @@
   "dependencies": {
     "aramaic-mapper": "^1.1.3",
     "cal-code-util": "^1.1.2",
-    "ipa-code-util": "^1.0.3"
+    "ipa-code-util": "^1.0.4"
   },
   "devDependencies": {
     "coveralls": "^3.0.0",
